@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Данил\source\repos\ConsoleApplication1\ConsoleApplication1\1.h(1,11): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "ConsoleApplication1.cpp")
+  
+  ConsoleApplication1.vcxproj -> C:\Users\Данил\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
